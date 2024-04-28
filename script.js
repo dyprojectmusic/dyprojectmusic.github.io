@@ -16,7 +16,7 @@ const songs = [
   {
     title: "Runtuh",
     name: "Feby, Putri",
-    source: "sound/runtuh.mp3",
+    source: "https://github.com/dyprojectmusic/dyprojectmusic.github.io/raw/main/sound/runtuh.mp3",
   },
   {
     title: "2 Days Into College",
