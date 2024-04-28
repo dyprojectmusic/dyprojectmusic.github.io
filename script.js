@@ -15,7 +15,7 @@ const songs = [
   },
   {
     title: "Runtuh",
-    name: "Feby, Putri",
+    name: "Feby Putri",
     source: "https://github.com/dyprojectmusic/dyprojectmusic.github.io/raw/main/sound/runtuh.mp3",
   },
   {
