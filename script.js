@@ -41,7 +41,7 @@ const songs = [
     title: "whats the move",
     name: "Laroi",
     source:
-      "https://github.com/dyprojectmusic/dyprojectmusic.github.io/blob/main/sound/laroi.mp3",
+      "https://github.com/dyprojectmusic/dyprojectmusic.github.io/raw/main/sound/laroi.mp3",
   },
   {
     title: "Delicate",
