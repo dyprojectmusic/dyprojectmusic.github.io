@@ -16,7 +16,7 @@ const songs = [
   {
     title: "Runtuh",
     name: "Feby, Putri",
-    source: "https://cf-media.sndcdn.com/13nlqMqQLted.128.mp3?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vMTNubHFNcVFMdGVkLjEyOC5tcDMqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE0NjI4NDE3fX19XX0_&Signature=I2OK9fJcFog7Bibj4hHT3CsDtfJAJcg7VTylyGZ02BdNkmCwCrmI8l8oCLHFeXImANVwUBHPCeDGzvb0dR8IV1RzhgzwRTO-gk~AbrW383OC57pyLltHhFrNald7y1m4aejbXs1ZRkvLkEimyglb44KPFF~KJMAHpZ4C1-JInzb7~HPkL~8J3oWN0~FKZC8OHLmu-gKvyn~oudcCCXV-zuRL9U7Q3UEuX-n8I1Cqod57W~XpIBwAx5900Tk-GVG5RBQC3Hl7VHyhxP4odOeFlgr6l2P-OY~-LlF77KBlZDkCli3zXzn4se3yp1KTaUt-VxZKmZcZDot~lmtEuFdwZQ__&Key-Pair-Id=APKAI6TU7MMXM5DG6EPQ",
+    source: "https://github.com/dyprojectmusic/dyprojectmusic.github.io/raw/main/sound/hmmmm.mp3",
   },
   {
     title: "2 Days Into College",
@@ -40,7 +40,7 @@ const songs = [
     title: "whats the move",
     name: "Laroi",
     source:
-      "https://github.com/dyprojectmusic/dyprojectmusic.github.io/blob/main/sound/laroi.mp3",
+      "https://github.com/dyprojectmusic/dyprojectmusic.github.io/raw/main/sound/laroi.mp3",
   },
   {
     title: "Delicate",
